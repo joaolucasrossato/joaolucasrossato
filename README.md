@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Hello! I'm João Lucas 👍<br>I am currently studying Computer Science. I'm interested in process automation and DevOps infrastructure.<br></p>
+<p align="left">Hello! I'm João Lucas 👍<br>
+I am currently studying Computer Science. I'm interested in process automation and DevOps     
+infrastructure.<br></p>
 
 ###
 
