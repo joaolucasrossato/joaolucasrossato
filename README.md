@@ -1,5 +1,15 @@
 ### Olá! Eu sou o João Lucas 👍
 
+###
+
+<p align="left">Atualmente estou cursando Ciências da Computação. Tenho interesse em automação de processos e infraestrutura DevOps.</p>
+
+###
+
+<h2 align="left">Minhas Redes</h2>
+
+###
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolsrossato/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaolrossato)
 
