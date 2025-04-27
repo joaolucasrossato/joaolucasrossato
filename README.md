@@ -1,9 +1,9 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre/h2>
 
 ###
 
-<p align="left">Hello! I'm João Lucas 👍<br>
-I am currently studying Computer Science.<br> I'm interested in process automation and DevOps.
+<p align="left">Olá! Sou João Lucas 👍<br>
+Estou cursando Ciência da Computação.<br> Tenho interesse em automação de processos e DevOps.
 <br></p>
 
 ###
