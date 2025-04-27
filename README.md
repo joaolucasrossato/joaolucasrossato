@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Sou João Lucas 👍<br>
+<p align="left">Olá! Sou o João Lucas 👍<br>
 Estou cursando Ciência da Computação.<br> Tenho interesse em automação de processos e DevOps.
 <br></p>
 
