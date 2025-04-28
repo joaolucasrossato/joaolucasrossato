@@ -1,5 +1,4 @@
-<h2 align="left">Sobre/h2>
-
+ 
 ###
 
 <p align="left">Olá! Sou o João Lucas 👍<br>
