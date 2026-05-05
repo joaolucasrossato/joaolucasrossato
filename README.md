@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Me chamo João Lucas<br>Sou um profissional de DevOps | SRE</p>
+<p align="left">Me chamo João Lucas<br>💻 Estudante de Ciência da Computação focado em DevOps & SRE<br>🐧 Experiência com Linux, Docker, Shell Script, Git e redes<br></p>
 
 ###
 
@@ -63,6 +63,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaolucasrossato/joaolucastossato/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaolucasrossato/joaolucasrossato/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
