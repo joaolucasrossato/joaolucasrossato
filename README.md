@@ -6,8 +6,6 @@
 
 ###
 
-<p align="left">Me chamo João Lucas<br>💻 Estudante de Ciência da Computação focado em DevOps & SRE<br>🐧 Experiência com Linux, Docker, Shell Script, Git e redes<br></p>
-
 ###
 
 <h3 align="left">Connect with me!</h3>
