@@ -43,6 +43,11 @@ infrastructure while expanding my knowledge in DevOps and Cloud Computing.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
+</div>
+
+###
+<h3 align="left">📚 Currently Learning</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
