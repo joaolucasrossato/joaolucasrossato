@@ -3,7 +3,22 @@
 </div>
 
 ###
+## 👨‍💻 About me
 
+I'm an IT professional with experience in Linux environments,
+infrastructure and application support.
+
+Currently working with troubleshooting, log analysis, SQL databases,
+service monitoring and task automation.
+
+I'm also developing projects focused on containers, monitoring and
+infrastructure while expanding my knowledge in DevOps and Cloud Computing.
+
+🎓 Computer Science student  
+🐧 Linux & Infrastructure  
+🐳 Docker & Containers  
+☁️ Learning Cloud & DevOps  
+📍 Brazil
 ###
 
 <h3 align="left">Connect with me!</h3>
@@ -24,8 +39,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -33,8 +46,6 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
   <img width="12" />
