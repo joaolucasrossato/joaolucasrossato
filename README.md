@@ -113,7 +113,16 @@ with a containerized architecture and REST API.
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaolucasrossato/joaolucastossato/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaolucasrossato/joaolucasrossato/output/pacman-contribution-graph.svg">
-
-###
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/joaolucasrossato/joaolucasrossato/output/pacman-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/joaolucasrossato/joaolucasrossato/output/pacman-contribution-graph.svg"
+  >
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/joaolucasrossato/joaolucasrossato/output/pacman-contribution-graph.svg"
+  >
+</picture>
