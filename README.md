@@ -28,7 +28,7 @@ infrastructure while expanding my knowledge in DevOps and Cloud Computing.
 
 ###
 
-<h3 align="left">🛠 Stacks</h3>
+<h3 align="left">🛠 Technologies</h3>
 
 ###
 
@@ -42,6 +42,8 @@ infrastructure while expanding my knowledge in DevOps and Cloud Computing.
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
 </div>
 
@@ -120,9 +122,5 @@ with a containerized architecture and REST API.
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/joaolucasrossato/joaolucasrossato/output/pacman-contribution-graph.svg"
-  >
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/joaolucasrossato/joaolucasrossato/output/pacman-contribution-graph.svg"
   >
 </picture>
