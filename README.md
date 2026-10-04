@@ -53,6 +53,46 @@ infrastructure while expanding my knowledge in DevOps and Cloud Computing.
 </div>
 
 ###
+###
+
+## 🚀 Featured Projects
+
+### 📊 StatusWatch — Service & Infrastructure Monitoring
+
+Monitoring platform focused on service availability and infrastructure,
+built with a containerized architecture and production-oriented environment.
+
+**Technologies & concepts:**
+
+- Docker & Docker Compose
+- Web + Worker architecture
+- Health Checks
+- Service Monitoring
+- Production environment configuration
+
+🔗 [View repository](https://github.com/joaolucasrossato/StatusWatch)
+
+---
+
+### 📅 AgendGo — SaaS Scheduling Platform
+
+SaaS scheduling platform designed for businesses and service professionals,
+with a containerized architecture and REST API.
+
+**Technologies & concepts:**
+
+- React + TypeScript
+- FastAPI + Python
+- PostgreSQL
+- Docker & Docker Compose
+- Nginx
+- REST API
+- Multi-container architecture
+
+🔗 [View repository](https://github.com/joaolucasrossato/AgendGo)
+
+###
+###
 
 <h3 align="left">Stats :</h3>
 
