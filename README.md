@@ -123,8 +123,4 @@ with a containerized architecture and REST API.
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/joaolucasrossato/joaolucasrossato/output/pacman-contribution-graph.svg"
   >
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/joaolucasrossato/joaolucasrossato/output/pacman-contribution-graph.svg"
-  >
 </picture>
